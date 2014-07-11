@@ -37,7 +37,7 @@ namespace CodedUI_RMV_CSV_Data_ALL
                 this.UIMap.AssertSearchResult(TestContext.DataRow["city_name"].ToString());
                 this.UIMap.LogoutAndCloseBrowser();
 
-
+            // Test Changes
             System.Windows.Forms.MessageBox.Show("End");
 
         }
